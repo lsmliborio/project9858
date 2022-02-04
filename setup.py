@@ -7,7 +7,7 @@ setuptools.setup(
     name="project9858",
     version="0.0",
     author="Luis Liborio",
-    author_email="lsm.liborio@gmail.com",
+    author_email="lsmliborio@gmail.com",
     description="A Package descr",
     long_description=long_description,
     long_description_content_type="text/markdown",
